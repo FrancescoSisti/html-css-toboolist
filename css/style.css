@@ -50,6 +50,14 @@ body {
     margin: 3px 0;
 }
 
+.cross-entity {
+    display: inline;
+    border: 1px solid rgb(255, 76, 76);
+    color: rgb(255, 76, 76);
+    border-radius: 100%;
+    margin: 3px 0;
+}
+
 .editorial-button {
     display: inline;
     background-color: rgb(69, 171, 234);
@@ -127,7 +135,7 @@ header {
 
 /* Sections */
 .tasks {
-    padding: 20px;
+    padding: 15px;
 }
 
 h3 {
