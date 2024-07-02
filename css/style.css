@@ -50,12 +50,58 @@ body {
     margin: 3px 0;
 }
 
-.category-button {
+.editorial-button {
     display: inline;
     background-color: rgb(69, 171, 234);
     color: white;
     padding: 7px;
     border-radius: 20px;
+    font-size: 13px;
+}
+
+.q1goals-button {
+    display: inline;
+    background-color: rgb(156, 114, 228);
+    color: white;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+.recruiting-button {
+    display: inline;
+    background-color: rgb(100, 192, 169);
+    color: white;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+.mobile-button {
+    display: inline;
+    background-color: rgb(242, 158, 51);
+    color: white;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+.website-button {
+    display: inline;
+    background-color: rgb(216, 99, 161);
+    color: white;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+.sales-button {
+    display: inline;
+    background-color: rgb(176, 201, 38);
+    color: white;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 13px;
 }
 
 /* Header */
