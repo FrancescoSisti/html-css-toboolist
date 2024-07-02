@@ -8,9 +8,18 @@
 /* Utilities */
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
 }
 
-.container {}
+.container {
+    width: 60%;
+    margin: 0 auto;
+    border: 2px dashed red;
+    background-color: white;
+    margin: 20px auto;
+}
+
+.botton {}
 
 /* Header */
 h1 {
@@ -27,4 +36,8 @@ h1 {
 #logo {
     width: 70px;
     vertical-align: middle;
+}
+
+header {
+    background-color: white;
 }
